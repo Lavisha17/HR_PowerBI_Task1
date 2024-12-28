@@ -4,7 +4,7 @@ Name : Lavisha Ulkesh Desai <br>
 Company : CODTECH IT SOLUTIONS <br>
 ID : CT08EHV<br>
 Domain : Power BI<br>
-Duration : 17, December,2024 to 1,January ,2025 <br>
+Duration : 17, December,2024 to 17, January ,2025 <br>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Objective : Develop a report to analyze HR data, including employee demographics, attrition rates, and performance metrics. Import HR data from a database or Excel file. Create visuals to represent employee demographics and performance metrics.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
